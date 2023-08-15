@@ -12,4 +12,4 @@
 7. 구성.
 
 
-<img src="./image_tf.png" width ="400px" />
+<img src="./image_tf.png" width ="800px" />
